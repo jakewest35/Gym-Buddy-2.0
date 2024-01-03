@@ -8,5 +8,5 @@ This is an updated version of my initial Gym-Buddy app. Planned updates include:
 
 
 ## TODO
-[ ] Research graphing libraries for visualizing user progress over time
-[ ] Think of new UI and logic flow for user
+- [ ] Research graphing libraries for visualizing user progress over time
+- [ ] Think of new UI and logic flow for user
